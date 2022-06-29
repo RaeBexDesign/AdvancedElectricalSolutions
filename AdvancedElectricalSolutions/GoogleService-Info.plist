@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>869800267523-ecrh51ekmggg0vmol94veenl1jc2d070.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.869800267523-ecrh51ekmggg0vmol94veenl1jc2d070</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKbayY_XUyfooVSjeTdgh_fZrcwi4kgOg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>869800267523</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.RaeBex.AdvancedElectricalSolutions</string>
+	<key>PROJECT_ID</key>
+	<string>aes-app-userspecific</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aes-app-userspecific.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:869800267523:ios:70972c459846638e6e2336</string>
+</dict>
+</plist>
